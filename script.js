@@ -2,7 +2,7 @@ var navBar = document.getElementsByTagName('nav')[0];
 
 var myScrollFunc = function(){
     var y = window.scrollY;
-    if(y > 250)
+    if(y > 250) 
     {
         navBar.style.backgroundColor = '#1f1f1f';
         navBar.style.position = 'fixed';
