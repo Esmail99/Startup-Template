@@ -1,3 +1,5 @@
+// --------------- Making navbar appear after 250px --------------------
+
 var navBar = document.getElementsByTagName('nav')[0];
 
 var myScrollFunc = function(){
